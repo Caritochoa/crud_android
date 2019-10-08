@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crud</string>
+    <string name="actividad">actividad</string>
+    <string name="asunto">asunto</string>
+    <string name="fecha">fecha</string>
+
+</resources>
